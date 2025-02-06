@@ -1,0 +1,6 @@
+Toutes les commandes que j'ai effectué :
+-git init
+-git remote add https://...
+-git config user.email "tilio.levezier@gmail.com"
+-git config user.name "token"
+
